@@ -54,10 +54,21 @@ jobs:
 
           if len(raw) > 32 * 1024 * 1024:
               raise SystemExit("Feed exceeded 32 MiB safety limit.")
-          reader = csv.DictReader(
-              line for line in io.StringIO(raw.decode("utf-8-sig", errors="strict"))
-              if not line.lstrip().startswith("#")
+          lines = raw.decode("utf-8-sig", errors="strict").splitlines()
+          # URLhaus prefixes its CSV header with "# "; retain that header
+          # while ignoring other comment lines.
+          header_index = next(
+              (i for i, line in enumerate(lines)
+               if line.lstrip().startswith("#") and "url" in line.lower() and "url_status" in line.lower()),
+              None
           )
+          if header_index is None:
+              raise SystemExit("URLhaus CSV header not found; refusing to publish.")
+          header = lines[header_index].lstrip()[1:].strip()
+          csv_text = "\\n".join([header] + lines[header_index + 1:])
+          reader = csv.DictReader(io.StringIO(csv_text))
+          if not {"url", "url_status"}.issubset(set(reader.fieldnames or [])):
+              raise SystemExit("Unexpected URLhaus CSV schema; refusing to publish.")
           hosts = set()
           for row in reader:
               if (row.get("url_status") or "").strip().lower() != "online":
