@@ -70,10 +70,15 @@ jobs:
           if not {"url", "url_status"}.issubset(set(reader.fieldnames or [])):
               raise SystemExit("Unexpected URLhaus CSV schema; refusing to publish.")
           hosts = set()
+          total_rows = online_rows = url_rows = 0
           for row in reader:
+              total_rows += 1
               if (row.get("url_status") or "").strip().lower() != "online":
                   continue
+              online_rows += 1
               value = (row.get("url") or "").strip()
+              if value:
+                  url_rows += 1
               try:
                   parsed = urlsplit(value)
                   if parsed.scheme not in ("http", "https"):
@@ -89,6 +94,7 @@ jobs:
               except Exception:
                   continue
 
+          print("CSV rows:", total_rows, "online rows:", online_rows, "online rows with URL:", url_rows, "valid hostnames:", len(hosts))
           if not hosts:
               raise SystemExit("No valid online host indicators; refusing to overwrite previous feed.")
           now = datetime.now(timezone.utc).isoformat()
