@@ -2,6 +2,9 @@ name: Publish URLhaus threat feed
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/publish-urlhaus-feed.yml"
   schedule:
     - cron: "23 */6 * * *"
 
