@@ -1,0 +1,104 @@
+name: Publish URLhaus threat feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: urlhaus-feed
+  cancel-in-progress: true
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Download and sanitize URLhaus export
+        env:
+          URLHAUS_AUTH_KEY: ${{ secrets.URLHAUS_AUTH_KEY }}
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import csv, io, os, re, sys
+          from datetime import datetime, timezone
+          from urllib.request import Request, urlopen
+          from urllib.parse import urlsplit
+
+          key = os.environ.get("URLHAUS_AUTH_KEY", "").strip()
+          if not key:
+              print("Missing Actions secret URLHAUS_AUTH_KEY.", file=sys.stderr)
+              raise SystemExit(1)
+
+          req = Request(
+              "https://urlhaus-api.abuse.ch/v2/files/exports/" + key + "/recent.csv",
+              headers={"User-Agent": "PROHORI-ThreatFeed/1.0", "Accept": "text/csv"}
+          )
+          try:
+              with urlopen(req, timeout=60) as response:
+                  if response.status != 200:
+                      raise RuntimeError("unexpected HTTP status")
+                  raw = response.read(32 * 1024 * 1024 + 1)
+          except Exception:
+              print("URLhaus download failed; response and credential details suppressed.", file=sys.stderr)
+              raise SystemExit(1)
+
+          if len(raw) > 32 * 1024 * 1024:
+              raise SystemExit("Feed exceeded 32 MiB safety limit.")
+          reader = csv.DictReader(
+              line for line in io.StringIO(raw.decode("utf-8-sig", errors="strict"))
+              if not line.lstrip().startswith("#")
+          )
+          hosts = set()
+          for row in reader:
+              if (row.get("url_status") or "").strip().lower() != "online":
+                  continue
+              value = (row.get("url") or "").strip()
+              try:
+                  parsed = urlsplit(value)
+                  if parsed.scheme not in ("http", "https"):
+                      continue
+                  host = (parsed.hostname or "").rstrip(".").encode("idna").decode("ascii").lower()
+                  if not host or len(host) > 253 or "." not in host:
+                      continue
+                  if re.fullmatch(r"[0-9.]+", host) or ":" in host:
+                      continue
+                  labels = host.split(".")
+                  if all(1 <= len(x) <= 63 and re.fullmatch(r"[a-z0-9](?:[a-z0-9-]*[a-z0-9])?", x) for x in labels):
+                      hosts.add(host)
+              except Exception:
+                  continue
+
+          if not hosts:
+              raise SystemExit("No valid online host indicators; refusing to overwrite previous feed.")
+          now = datetime.now(timezone.utc).isoformat()
+          with open("domains.hosts", "w", encoding="utf-8", newline="\n") as out:
+              out.write("# PROHORI URLhaus online malware-host indicators\n")
+              out.write("# Generated: " + now + "\n")
+              for host in sorted(hosts):
+                  out.write("0.0.0.0 " + host + "\n")
+          with open("feed-status.txt", "w", encoding="utf-8") as out:
+              out.write("source=URLhaus recent.csv\n")
+              out.write("generated_utc=" + now + "\n")
+              out.write("host_count=" + str(len(hosts)) + "\n")
+          print("Sanitized feed generated. Host count:", len(hosts))
+          PY
+
+      - name: Commit updated feed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add domains.hosts feed-status.txt
+          if git diff --cached --quiet; then
+            echo "Feed unchanged; no commit needed."
+          else
+            git commit -m "Update sanitized URLhaus threat feed"
+            git push origin HEAD:main
+          fi
