@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-20T11:35:22.161653+00:00
+# Generated: 2026-11-20T20:32:27.948217+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 167-148-195-171.sslip.io
 0.0.0.0 1688360.cc
@@ -142,6 +142,7 @@
 0.0.0.0 clod.lippasswer.top
 0.0.0.0 cloudflare.gd
 0.0.0.0 cloudflareconfirm.com
+0.0.0.0 cmir.mx
 0.0.0.0 codeload.github.com
 0.0.0.0 coinworknew.com
 0.0.0.0 complianceportals.com
@@ -267,6 +268,7 @@
 0.0.0.0 empergr.qpon
 0.0.0.0 epsilonau.shop-theeloncode.com
 0.0.0.0 estudio315.com.br
+0.0.0.0 examples2.pages.dev
 0.0.0.0 excelnt.ai
 0.0.0.0 exo-api.tf
 0.0.0.0 exq.messag.life
@@ -280,6 +282,8 @@
 0.0.0.0 fc.yuo123.cc
 0.0.0.0 fcitantibot.pro
 0.0.0.0 fcmelle.de
+0.0.0.0 featherswallet.net
+0.0.0.0 featherwallet.com
 0.0.0.0 feedweave14.com
 0.0.0.0 fern46.com
 0.0.0.0 file.celciuscreditor.com
@@ -339,7 +343,9 @@
 0.0.0.0 hasil-gov-my.shop
 0.0.0.0 hasilgov-my.my.id
 0.0.0.0 hasilgov-my.shop
+0.0.0.0 havenleaf3.com
 0.0.0.0 hdsoftware.org
+0.0.0.0 hechman.top
 0.0.0.0 hf-mirror.com
 0.0.0.0 hfm-qnyxrf78xc1i0k.cfd
 0.0.0.0 hilbetadres.com
@@ -453,6 +459,7 @@
 0.0.0.0 mowcangler.co.uk
 0.0.0.0 mwpbajfkkrozdtwazwzk.supabase.co
 0.0.0.0 myhpsd2.screenconnect.com
+0.0.0.0 mysoliq.lat
 0.0.0.0 n.uguu.se
 0.0.0.0 nagl.com.pg
 0.0.0.0 nautt.co.uk
@@ -553,6 +560,7 @@
 0.0.0.0 pub-45a83f302a1943ed8d62418c2af947ef.r2.dev
 0.0.0.0 pub-5aaa0feaeca64ddda0e256f8793ca2fd.r2.dev
 0.0.0.0 pub-5e5552f9629e4e2eadd17bbb2d62cd4a.r2.dev
+0.0.0.0 pub-7e21bf5022574a289ca67b5509e84015.r2.dev
 0.0.0.0 pub-8c944cde37db4a589e86137d049091b0.r2.dev
 0.0.0.0 pub-8cd123cf29f247f8bf6c3b4507e3a5fb.r2.dev
 0.0.0.0 pub-9edd485f8a3c4fb1942935530b075a5d.r2.dev
@@ -654,6 +662,7 @@
 0.0.0.0 soft-queen-7e9a.maggiejonhson23.workers.dev
 0.0.0.0 softshare.eeriiootw.com
 0.0.0.0 sok.soclable8jas.top
+0.0.0.0 soliq-qaytarish.pro
 0.0.0.0 soniamart.com
 0.0.0.0 sosogou.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 sourcemirrors.org
@@ -694,6 +703,8 @@
 0.0.0.0 swiftonyx16.com
 0.0.0.0 swingerwives.com
 0.0.0.0 sx.mcgrorys.top
+0.0.0.0 sxdx1.fixlow.shop
+0.0.0.0 sxdx2.fixlow.shop
 0.0.0.0 syguihdburb.com
 0.0.0.0 systhub.top
 0.0.0.0 t-trustresnew.com
@@ -771,6 +782,8 @@
 0.0.0.0 wintweakers.com
 0.0.0.0 winx64-letskauliian-1374029367.cos.ap-tokyo.myqcloud.com
 0.0.0.0 wios.tron3.vip
+0.0.0.0 wiow2.hypstock.info
+0.0.0.0 wiow3.hypstock.info
 0.0.0.0 wocgranted.screenconnect.com
 0.0.0.0 wpoler.help
 0.0.0.0 wppluginindex.com
