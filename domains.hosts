@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-21T19:28:58.763370+00:00
+# Generated: 2026-11-22T07:06:21.563683+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 167-148-195-171.sslip.io
 0.0.0.0 1688360.cc
@@ -34,7 +34,6 @@
 0.0.0.0 adcentral.com.mx
 0.0.0.0 adv.dailytechinsight.com
 0.0.0.0 aegic.top
-0.0.0.0 agent.fleetdeck.io
 0.0.0.0 ahiak.com
 0.0.0.0 aiqana.com
 0.0.0.0 airwayhost.com
@@ -53,7 +52,6 @@
 0.0.0.0 appset.autos
 0.0.0.0 aranos1.duckdns.org
 0.0.0.0 argon-client.com
-0.0.0.0 artalivedesign.com
 0.0.0.0 asniqdkw.com
 0.0.0.0 atomicplanets.cc
 0.0.0.0 audtfnaurth.com.es
@@ -71,7 +69,6 @@
 0.0.0.0 bb2c6-42dfkea8-9fhh47-927aebce12d4.fasterflogging.cc
 0.0.0.0 belt-hiking-round-skirt.trycloudflare.com
 0.0.0.0 bergdorfgoodmanbag.com
-0.0.0.0 bhai.indianpeople.shop
 0.0.0.0 bhenchod.rabinda-sarobar.online
 0.0.0.0 bikm1.hypstock.info
 0.0.0.0 bikm2.hypstock.info
@@ -93,7 +90,6 @@
 0.0.0.0 boitim.oss-eu-west-2.aliyuncs.com
 0.0.0.0 bonboncraft.com
 0.0.0.0 boost-19.com
-0.0.0.0 boowellness.screenconnect.com
 0.0.0.0 boramar.es
 0.0.0.0 bore.pub
 0.0.0.0 bot.lithium.zone
@@ -101,12 +97,10 @@
 0.0.0.0 breeze-client.com
 0.0.0.0 bridge73.com
 0.0.0.0 bsadbnqwic.com
-0.0.0.0 btorsercoyt31.cc
 0.0.0.0 buloru.com
 0.0.0.0 bunaisd.screenconnect.com
 0.0.0.0 c32f4dda3dceee6b85ba1f5f2f3308bf.r2.cloudflarestorage.com
 0.0.0.0 caizom.eu.cc
-0.0.0.0 casapepepuertosherry.es
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 caterprosoftware.com
 0.0.0.0 ccu.to
@@ -141,7 +135,6 @@
 0.0.0.0 cloudflare.gd
 0.0.0.0 cloudflareconfirm.com
 0.0.0.0 cmir.mx
-0.0.0.0 codeload.github.com
 0.0.0.0 coinworknew.com
 0.0.0.0 complianceportals.com
 0.0.0.0 cosmicsky.cc
@@ -197,9 +190,7 @@
 0.0.0.0 donutclient.de
 0.0.0.0 donutclients.space
 0.0.0.0 donutclients.st
-0.0.0.0 donutclientz.netlify.app
 0.0.0.0 donutsmpclient.net
-0.0.0.0 donutsmpclients.store
 0.0.0.0 donutsmphackclient.netlify.app
 0.0.0.0 donutsmplarp.com
 0.0.0.0 down.stellarcedar.live
@@ -263,7 +254,6 @@
 0.0.0.0 efhiwogvjd.com
 0.0.0.0 efn.lol
 0.0.0.0 elev.mcgrorys.top
-0.0.0.0 elrianda.com
 0.0.0.0 empergr.qpon
 0.0.0.0 epsilonau.shop-theeloncode.com
 0.0.0.0 estudio315.com.br
@@ -272,7 +262,6 @@
 0.0.0.0 exo-api.tf
 0.0.0.0 exq.messag.life
 0.0.0.0 ext.xweny.lol
-0.0.0.0 faceit.pairacc.com
 0.0.0.0 farmhelper.org
 0.0.0.0 farmutils.com
 0.0.0.0 fastly.jsdelivr.net
@@ -301,7 +290,6 @@
 0.0.0.0 flicargo.com
 0.0.0.0 flycheats.xyz
 0.0.0.0 for-what-u-check-it-bro.lol
-0.0.0.0 forge-copper.com
 0.0.0.0 fr.mcgrorys.top
 0.0.0.0 franfrbar.com
 0.0.0.0 fsdownload.s3.eu-west-3.amazonaws.com
@@ -365,7 +353,6 @@
 0.0.0.0 im-quirky.com
 0.0.0.0 imansport.ir
 0.0.0.0 imperia243.com
-0.0.0.0 imperiailmports.com
 0.0.0.0 incypreaw.pages.dev
 0.0.0.0 ioknet.kehma.online
 0.0.0.0 iqwblsfvqcopxrijnzwx.supabase.co
@@ -374,7 +361,6 @@
 0.0.0.0 jcsncorp.screenconnect.com
 0.0.0.0 jdaram.com
 0.0.0.0 jhvhglg1oxhxf6sa.public.blob.vercel-storage.com
-0.0.0.0 jscdncloude.beer
 0.0.0.0 judism.com
 0.0.0.0 kafeprog7.com
 0.0.0.0 kartesr.com
@@ -439,7 +425,6 @@
 0.0.0.0 miip.live
 0.0.0.0 mindrix.top
 0.0.0.0 minecraft-vip.top
-0.0.0.0 minnarasanen.com
 0.0.0.0 mipagina.cl
 0.0.0.0 misamasupply.com
 0.0.0.0 misleading-lime-termite.myfilebase.com
@@ -455,7 +440,6 @@
 0.0.0.0 mysoliq.lat
 0.0.0.0 n.uguu.se
 0.0.0.0 nagl.com.pg
-0.0.0.0 nautt.co.uk
 0.0.0.0 ncheck-brows.beer
 0.0.0.0 nd.tdpqnf.com
 0.0.0.0 nebulaclient.co
@@ -474,7 +458,6 @@
 0.0.0.0 novasms.com.mx
 0.0.0.0 novrixs.net
 0.0.0.0 npnl34ww.xyz
-0.0.0.0 nsgggg.com
 0.0.0.0 nurse-trader.conohawing.com
 0.0.0.0 oblivion.best
 0.0.0.0 obohands.com
@@ -527,7 +510,6 @@
 0.0.0.0 polinex.org
 0.0.0.0 postu.cloud
 0.0.0.0 pounddose.top
-0.0.0.0 power-shell.cc
 0.0.0.0 powershell.lat
 0.0.0.0 premuimline-mea.cam
 0.0.0.0 prestige-client.lovable.app
@@ -622,7 +604,6 @@
 0.0.0.0 seasquadshipping.com
 0.0.0.0 secomex.com.ar
 0.0.0.0 secure-link.club
-0.0.0.0 seitech.ir
 0.0.0.0 semantictic.cfd
 0.0.0.0 seohumanoid.com
 0.0.0.0 seraitsgame.pages.dev
@@ -651,7 +632,6 @@
 0.0.0.0 soniamart.com
 0.0.0.0 sosogou.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 sourcemirrors.org
-0.0.0.0 southernalarm.screenconnect.com
 0.0.0.0 spaceware.info
 0.0.0.0 spaceware.to
 0.0.0.0 spartensgame.pages.dev
@@ -703,7 +683,6 @@
 0.0.0.0 therb.fixlow.shop
 0.0.0.0 thewildandfreecafe.screenconnect.com
 0.0.0.0 thexfil.fit
-0.0.0.0 thorfish.is
 0.0.0.0 threedrows.net
 0.0.0.0 tmcksa.com
 0.0.0.0 tmpfiles.org
@@ -773,18 +752,14 @@
 0.0.0.0 wwce.hellowortnm.cn
 0.0.0.0 www.ahiak.com
 0.0.0.0 www.aiqana.com
-0.0.0.0 www.autohaus-bender.de
-0.0.0.0 www.autohaus-neumann24.de
 0.0.0.0 www.axqua.com
 0.0.0.0 www.bagsrad.com
 0.0.0.0 www.bandizip.dev
 0.0.0.0 www.baritoneclient.net
-0.0.0.0 www.beschaffungszentrale.de
 0.0.0.0 www.cargo-passion.com
 0.0.0.0 www.complianceportals.com
 0.0.0.0 www.dropbox.com
 0.0.0.0 www.easybillingsolutions.xyz
-0.0.0.0 www.einzigartigfrei.de
 0.0.0.0 www.excelnt.ai
 0.0.0.0 www.farmutils.com
 0.0.0.0 www.goobaaclient.sbs
@@ -792,9 +767,7 @@
 0.0.0.0 www.hickamhealthcare.com
 0.0.0.0 www.jubex.eu
 0.0.0.0 www.kop4r.com
-0.0.0.0 www.krause-fahrzeuge.de
 0.0.0.0 www.lebang.si
-0.0.0.0 www.lehmann-autohaus.de
 0.0.0.0 www.maplezenith.live
 0.0.0.0 www.mediafire.com
 0.0.0.0 www.meteoraddons.net
@@ -811,7 +784,6 @@
 0.0.0.0 www.tensealservices.com
 0.0.0.0 www.udn48vb.com
 0.0.0.0 www.vcc-data.bond
-0.0.0.0 www.vergabe-zentrale.de
 0.0.0.0 www.vertansoft.com
 0.0.0.0 www.vexonmods.shop
 0.0.0.0 www.vfils.shop
