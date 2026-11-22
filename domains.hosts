@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-22T07:06:21.563683+00:00
+# Generated: 2026-11-22T19:51:13.249117+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 167-148-195-171.sslip.io
 0.0.0.0 1688360.cc
@@ -92,6 +92,7 @@
 0.0.0.0 boost-19.com
 0.0.0.0 boramar.es
 0.0.0.0 bore.pub
+0.0.0.0 bosfiles.net
 0.0.0.0 bot.lithium.zone
 0.0.0.0 bravamktdigital.com.br
 0.0.0.0 breeze-client.com
@@ -106,6 +107,7 @@
 0.0.0.0 ccu.to
 0.0.0.0 ccuffn.icu
 0.0.0.0 cda.fixiow.icu
+0.0.0.0 cdc.fixiow.icu
 0.0.0.0 cdm.wovplaying.help
 0.0.0.0 cdn-1s.hypstock.info
 0.0.0.0 cdn-2s.hypstock.info
@@ -127,6 +129,7 @@
 0.0.0.0 chilymove.net
 0.0.0.0 cianet.ir
 0.0.0.0 circuits-partners-resolved-peas.trycloudflare.com
+0.0.0.0 ckdb.hypstok.info
 0.0.0.0 clarkstonfamilydental.screenconnect.com
 0.0.0.0 cleverstack-ext30341.vercel.app
 0.0.0.0 cli.clipdghhs.top
@@ -154,6 +157,7 @@
 0.0.0.0 d78aab4760-db52-74aaa652cd4f.embergrab.cc
 0.0.0.0 da7wg.realtimefuturedev.buzz
 0.0.0.0 dashijie2026.oss-ap-southeast-7.aliyuncs.com
+0.0.0.0 datatimes.centralus.cloudapp.azure.com
 0.0.0.0 daxogon.top
 0.0.0.0 daxogon.xyz
 0.0.0.0 dc84406c-gei55kj16cf-d1fa3d9fc.fablegrid.cc
@@ -181,6 +185,7 @@
 0.0.0.0 dl.dropboxusercontent.com
 0.0.0.0 dl.google.com
 0.0.0.0 dnf.gampangjepe.org
+0.0.0.0 doc.pdf-unico.lat
 0.0.0.0 docsloaded.site
 0.0.0.0 docuviewse.com
 0.0.0.0 dodiihome.com
@@ -202,11 +207,13 @@
 0.0.0.0 download1348.mediafire.com
 0.0.0.0 download1349.mediafire.com
 0.0.0.0 download1523.mediafire.com
+0.0.0.0 download1527.mediafire.com
 0.0.0.0 download1580.mediafire.com
 0.0.0.0 download1590.mediafire.com
 0.0.0.0 download1654.mediafire.com
 0.0.0.0 download2260.mediafire.com
 0.0.0.0 download2265.mediafire.com
+0.0.0.0 download2272.mediafire.com
 0.0.0.0 download2275.mediafire.com
 0.0.0.0 download2277.mediafire.com
 0.0.0.0 download2286.mediafire.com
@@ -217,6 +224,7 @@
 0.0.0.0 download2296.mediafire.com
 0.0.0.0 download2332.mediafire.com
 0.0.0.0 download2338.mediafire.com
+0.0.0.0 download2339.mediafire.com
 0.0.0.0 download2358.mediafire.com
 0.0.0.0 download2363.mediafire.com
 0.0.0.0 download844.mediafire.com
@@ -247,6 +255,7 @@
 0.0.0.0 dxx5o.fixlow.shop
 0.0.0.0 dxx5q.fixlow.shop
 0.0.0.0 dxxs.fixlow.shop
+0.0.0.0 dyhuiying.com
 0.0.0.0 e76d78a-ab4760-db52-652cd4fy-u43jda.tidepull.cc
 0.0.0.0 earthquake-retention-formed-gets.trycloudflare.com
 0.0.0.0 easyfiles.cc
@@ -271,6 +280,7 @@
 0.0.0.0 fcitantibot.pro
 0.0.0.0 fcmelle.de
 0.0.0.0 featherswallet.net
+0.0.0.0 featherwallet.com
 0.0.0.0 feedweave14.com
 0.0.0.0 fern46.com
 0.0.0.0 file.celciuscreditor.com
@@ -336,6 +346,7 @@
 0.0.0.0 hfm-qnyxrf78xc1i0k.cfd
 0.0.0.0 hilbetadres.com
 0.0.0.0 hll912-1484535448.cos.ap-hongkong.myqcloud.com
+0.0.0.0 holodeo.net
 0.0.0.0 horizonlauncher.net
 0.0.0.0 hospital-prod-bucket.s3.amazonaws.com
 0.0.0.0 hospital-prod-bucket.s3.ap-southeast-1.amazonaws.com
@@ -344,6 +355,7 @@
 0.0.0.0 hskstrading.com
 0.0.0.0 humaneanimalpartner.screenconnect.com
 0.0.0.0 hya.codedevfuture.buzz
+0.0.0.0 hzwbl.com
 0.0.0.0 i-ticket-az.site
 0.0.0.0 i.ibb.co
 0.0.0.0 icecheats.space
@@ -352,8 +364,10 @@
 0.0.0.0 igat.sn
 0.0.0.0 im-quirky.com
 0.0.0.0 imansport.ir
+0.0.0.0 img-codes-cloude.info
 0.0.0.0 imperia243.com
 0.0.0.0 incypreaw.pages.dev
+0.0.0.0 infinitevote.com
 0.0.0.0 ioknet.kehma.online
 0.0.0.0 iqwblsfvqcopxrijnzwx.supabase.co
 0.0.0.0 irm.st
@@ -362,6 +376,7 @@
 0.0.0.0 jdaram.com
 0.0.0.0 jhvhglg1oxhxf6sa.public.blob.vercel-storage.com
 0.0.0.0 judism.com
+0.0.0.0 jxpxknskuarn.github.io
 0.0.0.0 kafeprog7.com
 0.0.0.0 kartesr.com
 0.0.0.0 kcfmfk.ltd
@@ -384,6 +399,7 @@
 0.0.0.0 kryptonv2-v1.lovable.app
 0.0.0.0 kss-kwt.cam
 0.0.0.0 ktrced.top
+0.0.0.0 kuaifase-me.cn
 0.0.0.0 kyicadvisory.com
 0.0.0.0 lafrancefabrics.screenconnect.com
 0.0.0.0 lai.windows22.help
@@ -481,6 +497,7 @@
 0.0.0.0 opsec-mod.com
 0.0.0.0 orexports.com
 0.0.0.0 oringo-client.com
+0.0.0.0 outline-willow.com
 0.0.0.0 overkill-client.com
 0.0.0.0 pakdigital.org
 0.0.0.0 panamgroup.com.pe
@@ -508,6 +525,7 @@
 0.0.0.0 pngup.com
 0.0.0.0 polinex-client.com
 0.0.0.0 polinex.org
+0.0.0.0 polyaris-beta.com
 0.0.0.0 postu.cloud
 0.0.0.0 pounddose.top
 0.0.0.0 powershell.lat
@@ -537,7 +555,9 @@
 0.0.0.0 pub-c9f0444b6f604c8d8f64366bb87d456d.r2.dev
 0.0.0.0 pub-dafab31d7caf48478302d333de660bc3.r2.dev
 0.0.0.0 pub-deebd68623a947eebf94757bdf8f090b.r2.dev
+0.0.0.0 pub-e4396ac9c01344db998f3a97ab6a8226.r2.dev
 0.0.0.0 pub-ef44c35b13984ebc836b5bb28bb93c95.r2.dev
+0.0.0.0 pub-f6745cf8efe14679acfbe49bedff70af.r2.dev
 0.0.0.0 publiempresa.es
 0.0.0.0 pumpadmin.fun
 0.0.0.0 purelypulse.media
@@ -595,6 +615,7 @@
 0.0.0.0 s7g.hypstock.info
 0.0.0.0 sail91.com
 0.0.0.0 salikae.store
+0.0.0.0 sasa2.fixiow.icu
 0.0.0.0 satgob-mx.shop
 0.0.0.0 save.nosehhankjh.top
 0.0.0.0 sc.c1s.su
@@ -605,11 +626,14 @@
 0.0.0.0 secomex.com.ar
 0.0.0.0 secure-link.club
 0.0.0.0 semantictic.cfd
+0.0.0.0 sendit.sh
 0.0.0.0 seohumanoid.com
 0.0.0.0 seraitsgame.pages.dev
 0.0.0.0 sevinete.fixlow.shop
 0.0.0.0 sevt.mcgrorys.top
 0.0.0.0 sgwv.jp
+0.0.0.0 sh-mylike.com
+0.0.0.0 shanxisaide.com
 0.0.0.0 siedle-balkan.com
 0.0.0.0 simpludelicios.md
 0.0.0.0 site.hfgjjkrewjk.com
@@ -630,6 +654,7 @@
 0.0.0.0 sok.soclable8jas.top
 0.0.0.0 soliq-qaytarish.pro
 0.0.0.0 soniamart.com
+0.0.0.0 sooyun-yun.com.cn
 0.0.0.0 sosogou.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 sourcemirrors.org
 0.0.0.0 spaceware.info
@@ -639,8 +664,11 @@
 0.0.0.0 ssh-node.hrtb.wreath.website
 0.0.0.0 st.fsyehm.top
 0.0.0.0 static.startcode.cyou
+0.0.0.0 static.tnkjmec.com
 0.0.0.0 statist.site
 0.0.0.0 stb.hypstok.info
+0.0.0.0 stca.topickks.icu
+0.0.0.0 stcc.topickks.icu
 0.0.0.0 stg1l.hyperfx.info
 0.0.0.0 stg3h.hyperfx.info
 0.0.0.0 stkc4.hyperfxs.icu
@@ -679,6 +707,7 @@
 0.0.0.0 tax.eatleanbeans.com
 0.0.0.0 tecpasco.com
 0.0.0.0 termoglas.ba
+0.0.0.0 tgnllqvbzqhl.github.io
 0.0.0.0 thelkfklef.com
 0.0.0.0 therb.fixlow.shop
 0.0.0.0 thewildandfreecafe.screenconnect.com
@@ -686,13 +715,16 @@
 0.0.0.0 threedrows.net
 0.0.0.0 tmcksa.com
 0.0.0.0 tmpfiles.org
+0.0.0.0 todenk.com.cn
 0.0.0.0 tom.eqraa.org.sa
 0.0.0.0 tom2.mitechsystems.net
 0.0.0.0 tools.lumma.cy
 0.0.0.0 topkitss.icu
 0.0.0.0 torurr.click
 0.0.0.0 transportfadila.com
+0.0.0.0 tresoctavos.com.mx
 0.0.0.0 trustchecknes.com
+0.0.0.0 tubularservices.com
 0.0.0.0 tunnel-activation.cc
 0.0.0.0 tvel.mcgrorys.top
 0.0.0.0 tw.fixlow.shop
@@ -716,6 +748,7 @@
 0.0.0.0 v15.next.forgejo.org
 0.0.0.0 v5q.eu
 0.0.0.0 valentimadvocacia.com.br
+0.0.0.0 valerovati03.github.io
 0.0.0.0 vape-client-landing.netlify.app
 0.0.0.0 vaul8.s3.us-east-2.amazonaws.com
 0.0.0.0 velmasqwxri.shop
@@ -750,6 +783,7 @@
 0.0.0.0 wpoler.help
 0.0.0.0 wppluginindex.com
 0.0.0.0 wwce.hellowortnm.cn
+0.0.0.0 www-featherwallet.org
 0.0.0.0 www.ahiak.com
 0.0.0.0 www.aiqana.com
 0.0.0.0 www.axqua.com
@@ -783,6 +817,7 @@
 0.0.0.0 www.studio-cf.com
 0.0.0.0 www.tensealservices.com
 0.0.0.0 www.udn48vb.com
+0.0.0.0 www.unlinedsound.com
 0.0.0.0 www.vcc-data.bond
 0.0.0.0 www.vertansoft.com
 0.0.0.0 www.vexonmods.shop
@@ -790,6 +825,7 @@
 0.0.0.0 www.vunex.dev
 0.0.0.0 www.wqrn59d.com
 0.0.0.0 www.wurstclient.org
+0.0.0.0 www.x9q.top
 0.0.0.0 x0.at
 0.0.0.0 xaerosminimap.com
 0.0.0.0 xeno.qpon
@@ -803,6 +839,7 @@
 0.0.0.0 xz-1507771301.cos.ap-singapore.myqcloud.com
 0.0.0.0 yifayiapp.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 yiwaiwaikehuduan.com
+0.0.0.0 yiwvywwuxkaz.github.io
 0.0.0.0 ymbbbklz4w24ikhj.public.blob.vercel-storage.com
 0.0.0.0 yy-1511015798.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 zip.dailytechinsight.com
