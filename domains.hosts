@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-24T00:04:14.831671+00:00
+# Generated: 2026-11-24T10:06:03.751245+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 167-148-195-171.sslip.io
 0.0.0.0 1688360.cc
@@ -30,13 +30,13 @@
 0.0.0.0 acten.topickks.icu
 0.0.0.0 activation-gateway.cc
 0.0.0.0 activation-pro.cc
+0.0.0.0 activator-tunnel.cc
 0.0.0.0 activelypartnering.com
 0.0.0.0 acutelyunfailing.cc
 0.0.0.0 adcentral.com.mx
 0.0.0.0 adv.dailytechinsight.com
 0.0.0.0 aegic.top
-0.0.0.0 ahiak.com
-0.0.0.0 aiqana.com
+0.0.0.0 airbit.online
 0.0.0.0 airwayhost.com
 0.0.0.0 alccounseling.screenconnect.com
 0.0.0.0 allegro.wicreset.pl
@@ -50,21 +50,17 @@
 0.0.0.0 api.stellarcedar.live
 0.0.0.0 app.appdowsdy.xyz
 0.0.0.0 app.dydowsdy.xyz
-0.0.0.0 appset.autos
 0.0.0.0 aranos1.duckdns.org
 0.0.0.0 argon-client.com
 0.0.0.0 asniqdkw.com
 0.0.0.0 atomicplanets.cc
 0.0.0.0 audtfnaurth.com.es
-0.0.0.0 auntieschaikhana.co.uk
 0.0.0.0 authguild.net
 0.0.0.0 avidhosting.uk
 0.0.0.0 aws-edge-10273753.io
 0.0.0.0 axionasports.com
-0.0.0.0 axqua.com
 0.0.0.0 ayub.cptz.wtf
 0.0.0.0 badmonner.s.gy
-0.0.0.0 balancing.my.id
 0.0.0.0 balladquartz.com
 0.0.0.0 bas3.s3-eu-west-1.amazonaws.com
 0.0.0.0 bb2c6-42dfkea8-9fhh47-927aebce12d4.fasterflogging.cc
@@ -194,7 +190,6 @@
 0.0.0.0 divinex.to
 0.0.0.0 dl.atlas101.us.kg
 0.0.0.0 dl.downloadonly.me
-0.0.0.0 dl.dropbox.com
 0.0.0.0 dl.dropboxusercontent.com
 0.0.0.0 dl.google.com
 0.0.0.0 doc.pdf-unico.lat
@@ -254,6 +249,7 @@
 0.0.0.0 dulkirsmod.net
 0.0.0.0 duller.qpon
 0.0.0.0 dwh.multidex.life
+0.0.0.0 dx.fixlow.shop
 0.0.0.0 dxa.multidex.life
 0.0.0.0 dxa.rewan.live
 0.0.0.0 dxb.rewan.live
@@ -279,7 +275,6 @@
 0.0.0.0 epsilonau.shop-theeloncode.com
 0.0.0.0 estudio315.com.br
 0.0.0.0 examples2.pages.dev
-0.0.0.0 excelnt.ai
 0.0.0.0 exo-api.tf
 0.0.0.0 exq.messag.life
 0.0.0.0 ext.xweny.lol
@@ -298,8 +293,6 @@
 0.0.0.0 fern46.com
 0.0.0.0 file.celciuscreditor.com
 0.0.0.0 file.garden
-0.0.0.0 files.54daysaverage.qzz.io
-0.0.0.0 files.8weeksaverage.xyz
 0.0.0.0 files.catbox.moe
 0.0.0.0 files.mcclients.com
 0.0.0.0 files.polisia.cam
@@ -315,6 +308,7 @@
 0.0.0.0 for-what-u-check-it-bro.lol
 0.0.0.0 fr.mcgrorys.top
 0.0.0.0 franfrbar.com
+0.0.0.0 friendsoftorreabbey.com
 0.0.0.0 fsdownload.s3.eu-west-3.amazonaws.com
 0.0.0.0 ftp.vietnam852.com
 0.0.0.0 fuzerom.cfd
@@ -374,6 +368,7 @@
 0.0.0.0 iconic-cracksds.vercel.app
 0.0.0.0 identyclick.com
 0.0.0.0 igat.sn
+0.0.0.0 ii-sen.ir
 0.0.0.0 ilangademolition.co.za
 0.0.0.0 im-quirky.com
 0.0.0.0 imansport.ir
@@ -421,7 +416,6 @@
 0.0.0.0 lake-90.com
 0.0.0.0 larpaddon.net
 0.0.0.0 ldbnaldjfajggfa.xxe1211.xyz
-0.0.0.0 lebang.si
 0.0.0.0 leisureconnecting.com
 0.0.0.0 lepafonso.bz
 0.0.0.0 librehub.click
@@ -534,7 +528,6 @@
 0.0.0.0 pixeldrain.com
 0.0.0.0 plain-queen-ff1a.modpages.workers.dev
 0.0.0.0 play.nopixel-rp.ir
-0.0.0.0 plikai.com
 0.0.0.0 plugin-dex.cc
 0.0.0.0 plugin-dex.forum
 0.0.0.0 pngup.com
@@ -556,7 +549,6 @@
 0.0.0.0 pub-41b75d021b0b48ddad6cbe9eeb14f7be.r2.dev
 0.0.0.0 pub-423927d9b82649c681bc5899c6177996.r2.dev
 0.0.0.0 pub-45a83f302a1943ed8d62418c2af947ef.r2.dev
-0.0.0.0 pub-5aaa0feaeca64ddda0e256f8793ca2fd.r2.dev
 0.0.0.0 pub-5e5552f9629e4e2eadd17bbb2d62cd4a.r2.dev
 0.0.0.0 pub-7e21bf5022574a289ca67b5509e84015.r2.dev
 0.0.0.0 pub-8c944cde37db4a589e86137d049091b0.r2.dev
@@ -669,7 +661,6 @@
 0.0.0.0 skyblockaddons.org
 0.0.0.0 skyblocker.st
 0.0.0.0 skyblockrpc.com
-0.0.0.0 skymods.download
 0.0.0.0 skyocean.org
 0.0.0.0 skyvault.fun
 0.0.0.0 soft-place.top
@@ -716,7 +707,6 @@
 0.0.0.0 storage7.hyperfx.info
 0.0.0.0 storage8.hyperfx.info
 0.0.0.0 store-eu-par-6.gofile.io
-0.0.0.0 store1.gofile.io
 0.0.0.0 studiogagnegagne.screenconnect.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 sugarfreedcupcake.co.za
@@ -733,6 +723,7 @@
 0.0.0.0 t-trustresnew.com
 0.0.0.0 t9.systha.top
 0.0.0.0 taunahi.us
+0.0.0.0 teambounder.com
 0.0.0.0 tecpasco.com
 0.0.0.0 termoglas.ba
 0.0.0.0 tgnllqvbzqhl.github.io
@@ -767,7 +758,6 @@
 0.0.0.0 u.pone.rs
 0.0.0.0 uber-joeleasing.de
 0.0.0.0 ucd9bd7b2d78fd09cd6b92e4ab63.dl.dropboxusercontent.com
-0.0.0.0 ucfea10e4d01e1b5c131c0c41850.dl.dropboxusercontent.com
 0.0.0.0 unojoin.com
 0.0.0.0 unoparty.online
 0.0.0.0 unoplayy.com
@@ -819,31 +809,24 @@
 0.0.0.0 wrightwaysocial.screenconnect.com
 0.0.0.0 wwce.hellowortnm.cn
 0.0.0.0 www-featherwallet.org
-0.0.0.0 www.ahiak.com
-0.0.0.0 www.aiqana.com
-0.0.0.0 www.axqua.com
 0.0.0.0 www.bagsrad.com
 0.0.0.0 www.bandizip.dev
 0.0.0.0 www.baritoneclient.net
 0.0.0.0 www.cargo-passion.com
 0.0.0.0 www.complianceportals.com
 0.0.0.0 www.dropbox.com
-0.0.0.0 www.excelnt.ai
 0.0.0.0 www.farmutils.com
+0.0.0.0 www.feroxtechnologies.solutions
 0.0.0.0 www.goobaaclient.sbs
 0.0.0.0 www.grg1n.com
-0.0.0.0 www.hickamhealthcare.com
 0.0.0.0 www.jubex.eu
 0.0.0.0 www.kop4r.com
-0.0.0.0 www.lebang.si
 0.0.0.0 www.maplezenith.live
 0.0.0.0 www.mediafire.com
 0.0.0.0 www.meteoraddons.net
-0.0.0.0 www.mxh4h.com
 0.0.0.0 www.nightmare-cheats.su
 0.0.0.0 www.owr4u.com
 0.0.0.0 www.payap.ir
-0.0.0.0 www.plikai.com
 0.0.0.0 www.puntacanacatamaransparty.com
 0.0.0.0 www.runeliteplus.net
 0.0.0.0 www.sdghdfghsdret32q4t23agfsd.xyz
@@ -856,7 +839,6 @@
 0.0.0.0 www.vertansoft.com
 0.0.0.0 www.vexonmods.shop
 0.0.0.0 www.vfils.shop
-0.0.0.0 www.vunex.dev
 0.0.0.0 www.wqrn59d.com
 0.0.0.0 www.wurstclient.org
 0.0.0.0 www.x9q.top
