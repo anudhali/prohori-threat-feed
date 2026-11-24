@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-23T07:53:31.468508+00:00
+# Generated: 2026-11-24T00:04:14.831671+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 167-148-195-171.sslip.io
 0.0.0.0 1688360.cc
@@ -27,6 +27,7 @@
 0.0.0.0 abc.highpnk.life
 0.0.0.0 acc.munber.life
 0.0.0.0 acd.munber.life
+0.0.0.0 acten.topickks.icu
 0.0.0.0 activation-gateway.cc
 0.0.0.0 activation-pro.cc
 0.0.0.0 activelypartnering.com
@@ -58,6 +59,7 @@
 0.0.0.0 auntieschaikhana.co.uk
 0.0.0.0 authguild.net
 0.0.0.0 avidhosting.uk
+0.0.0.0 aws-edge-10273753.io
 0.0.0.0 axionasports.com
 0.0.0.0 axqua.com
 0.0.0.0 ayub.cptz.wtf
@@ -67,6 +69,13 @@
 0.0.0.0 bas3.s3-eu-west-1.amazonaws.com
 0.0.0.0 bb2c6-42dfkea8-9fhh47-927aebce12d4.fasterflogging.cc
 0.0.0.0 belt-hiking-round-skirt.trycloudflare.com
+0.0.0.0 bene.hypstok.info
+0.0.0.0 beneon.hypstok.info
+0.0.0.0 beneon1.hypstok.info
+0.0.0.0 beneon2.hypstok.info
+0.0.0.0 beneon3.hypstok.info
+0.0.0.0 beneon4.hypstok.info
+0.0.0.0 beneon5.hypstok.info
 0.0.0.0 bergdorfgoodmanbag.com
 0.0.0.0 bhenchod.rabinda-sarobar.online
 0.0.0.0 bikm1.hypstock.info
@@ -139,6 +148,7 @@
 0.0.0.0 clod.lippasswer.top
 0.0.0.0 cloudflare.gd
 0.0.0.0 cloudflareconfirm.com
+0.0.0.0 clousesacehardware.screenconnect.com
 0.0.0.0 cmir.mx
 0.0.0.0 coinworknew.com
 0.0.0.0 complianceportals.com
@@ -151,6 +161,7 @@
 0.0.0.0 crojam.com
 0.0.0.0 cryp8.s3.us-east-2.amazonaws.com
 0.0.0.0 cs2xexternal.com
+0.0.0.0 csjdasioeqwgpt.com
 0.0.0.0 cube-60.com
 0.0.0.0 cuyarts.com.pe
 0.0.0.0 czarnolandia.world
@@ -188,6 +199,7 @@
 0.0.0.0 dl.google.com
 0.0.0.0 doc.pdf-unico.lat
 0.0.0.0 docsloaded.site
+0.0.0.0 documentazione.siap.cloud
 0.0.0.0 docuviewse.com
 0.0.0.0 dodiihome.com
 0.0.0.0 dolphlinksan.online
@@ -279,6 +291,7 @@
 0.0.0.0 fc.yuo123.cc
 0.0.0.0 fcitantibot.pro
 0.0.0.0 fcmelle.de
+0.0.0.0 fd2.eu
 0.0.0.0 featherswallet.net
 0.0.0.0 featherwallet.com
 0.0.0.0 feedweave14.com
@@ -350,6 +363,7 @@
 0.0.0.0 hospital-prod-bucket.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 hotelsalamander.pl
 0.0.0.0 houseless.com.br
+0.0.0.0 hp.hyperseqk.icu
 0.0.0.0 hskstrading.com
 0.0.0.0 humaneanimalpartner.screenconnect.com
 0.0.0.0 hya.codedevfuture.buzz
@@ -360,10 +374,12 @@
 0.0.0.0 iconic-cracksds.vercel.app
 0.0.0.0 identyclick.com
 0.0.0.0 igat.sn
+0.0.0.0 ilangademolition.co.za
 0.0.0.0 im-quirky.com
 0.0.0.0 imansport.ir
 0.0.0.0 img-codes-cloude.info
 0.0.0.0 imperia243.com
+0.0.0.0 importexportsgenius.com
 0.0.0.0 incypreaw.pages.dev
 0.0.0.0 infinitevote.com
 0.0.0.0 ioknet.kehma.online
@@ -389,6 +405,8 @@
 0.0.0.0 kkam.download
 0.0.0.0 kkkx.b-cdn.net
 0.0.0.0 kpcdn.hyperfx.info
+0.0.0.0 kplks.hypstok.info
+0.0.0.0 kplkss.hypstok.info
 0.0.0.0 kral.shaderzone.org
 0.0.0.0 kronemedia.de
 0.0.0.0 krypton-client.lol
@@ -446,12 +464,14 @@
 0.0.0.0 mng.multidex.life
 0.0.0.0 mobix.work
 0.0.0.0 mofa-gov-np.donwloaad-file.org
+0.0.0.0 moveeros.com
 0.0.0.0 mowcangler.co.uk
 0.0.0.0 mwpbajfkkrozdtwazwzk.supabase.co
 0.0.0.0 myhpsd2.screenconnect.com
 0.0.0.0 mysoliq.lat
 0.0.0.0 n.uguu.se
 0.0.0.0 nagl.com.pg
+0.0.0.0 nbdkdajf234.xyz
 0.0.0.0 ncheck-brows.beer
 0.0.0.0 nd.tdpqnf.com
 0.0.0.0 nebulaclient.co
@@ -577,6 +597,7 @@
 0.0.0.0 refining.qpon
 0.0.0.0 reiventarseuconhecimento.com
 0.0.0.0 relay.lecoindudiabetique.com
+0.0.0.0 relay.rolmasrong.online
 0.0.0.0 release-activation.cc
 0.0.0.0 release-assets.githubusercontent.com
 0.0.0.0 remote-helpdesk.com
@@ -612,11 +633,14 @@
 0.0.0.0 sasa2.fixiow.icu
 0.0.0.0 sasa3.fixiow.icu
 0.0.0.0 sasa4.fixiow.icu
+0.0.0.0 sasa5.fixiow.icu
+0.0.0.0 sasa6.fixiow.icu
 0.0.0.0 satgob-mx.shop
 0.0.0.0 save.nosehhankjh.top
 0.0.0.0 sc.c1s.su
 0.0.0.0 schemaleap1.com
 0.0.0.0 scjwc.screenconnect.com
+0.0.0.0 scope68.com
 0.0.0.0 script-six-tawny.vercel.app
 0.0.0.0 seasquadshipping.com
 0.0.0.0 secomex.com.ar
@@ -625,14 +649,17 @@
 0.0.0.0 sendit.sh
 0.0.0.0 seohumanoid.com
 0.0.0.0 seraitsgame.pages.dev
+0.0.0.0 servoxs.com
 0.0.0.0 sevinete.fixlow.shop
 0.0.0.0 sevt.mcgrorys.top
 0.0.0.0 sgwv.jp
 0.0.0.0 sh-mylike.com
+0.0.0.0 shandysip.com
 0.0.0.0 shanxisaide.com
 0.0.0.0 shenzhenzhuce.com
 0.0.0.0 siedle-balkan.com
 0.0.0.0 simpludelicios.md
+0.0.0.0 sinirbconsultingllc.screenconnect.com
 0.0.0.0 site.hfgjjkrewjk.com
 0.0.0.0 site.jiancai008.com
 0.0.0.0 site.vietnam852.com
@@ -651,6 +678,11 @@
 0.0.0.0 soliq-qaytarish.pro
 0.0.0.0 soniamart.com
 0.0.0.0 sooyun-yun.com.cn
+0.0.0.0 soso.fixiow.icu
+0.0.0.0 sosoa.fixiow.icu
+0.0.0.0 sosoa1.fixiow.icu
+0.0.0.0 sosoa2.fixiow.icu
+0.0.0.0 sosoa3.fixiow.icu
 0.0.0.0 sosogou.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 sourcemirrors.org
 0.0.0.0 spaceware.info
@@ -664,6 +696,7 @@
 0.0.0.0 statist.site
 0.0.0.0 stb.hypstok.info
 0.0.0.0 stca.topickks.icu
+0.0.0.0 stcb.topickks.icu
 0.0.0.0 stcc.topickks.icu
 0.0.0.0 stg1l.hyperfx.info
 0.0.0.0 stg3h.hyperfx.info
@@ -703,6 +736,7 @@
 0.0.0.0 tecpasco.com
 0.0.0.0 termoglas.ba
 0.0.0.0 tgnllqvbzqhl.github.io
+0.0.0.0 thegifthive.co.za
 0.0.0.0 thelkfklef.com
 0.0.0.0 therb.fixlow.shop
 0.0.0.0 thewildandfreecafe.screenconnect.com
@@ -747,6 +781,8 @@
 0.0.0.0 vape-client-landing.netlify.app
 0.0.0.0 vaul8.s3.us-east-2.amazonaws.com
 0.0.0.0 vd1s.hypstok.info
+0.0.0.0 vd2s.hypstok.info
+0.0.0.0 vd3s.hypstok.info
 0.0.0.0 velmasqwxri.shop
 0.0.0.0 velmontriq.net
 0.0.0.0 veod1.hypstock.info
@@ -761,9 +797,11 @@
 0.0.0.0 wandering-hall-d65e.modpages.workers.dev
 0.0.0.0 watt-n8n.duckdns.org
 0.0.0.0 wda.messag.life
+0.0.0.0 web-managerautomationsetup.es
 0.0.0.0 websenorllc.com
 0.0.0.0 weedstealer.xyz
 0.0.0.0 wemqmewkqewq.work.gd
+0.0.0.0 whispragency.com
 0.0.0.0 white-band-a6fb.to-o-ls-mee.workers.dev
 0.0.0.0 white-vpn.top
 0.0.0.0 wilkbuulderss.screenconnect.com
@@ -778,6 +816,7 @@
 0.0.0.0 wocgranted.screenconnect.com
 0.0.0.0 wpoler.help
 0.0.0.0 wppluginindex.com
+0.0.0.0 wrightwaysocial.screenconnect.com
 0.0.0.0 wwce.hellowortnm.cn
 0.0.0.0 www-featherwallet.org
 0.0.0.0 www.ahiak.com
@@ -837,5 +876,6 @@
 0.0.0.0 yiwvywwuxkaz.github.io
 0.0.0.0 ymbbbklz4w24ikhj.public.blob.vercel-storage.com
 0.0.0.0 yy-1511015798.cos.ap-guangzhou.myqcloud.com
+0.0.0.0 zenithsgroupadvisor.com
 0.0.0.0 zuawjtuceszhrdvkgsrd.supabase.co
 0.0.0.0 zumvu.net
