@@ -1,5 +1,5 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-25T08:51:23.569628+00:00
+# Generated: 2026-11-25T21:50:00.181590+00:00
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 1628394.xyz
 0.0.0.0 167-148-195-171.sslip.io
@@ -29,6 +29,7 @@
 0.0.0.0 abc.highpnk.life
 0.0.0.0 acc.munber.life
 0.0.0.0 acd.munber.life
+0.0.0.0 aceovercomers.screenconnect.com
 0.0.0.0 acten.topickks.icu
 0.0.0.0 activation-gateway.cc
 0.0.0.0 activation-pro.cc
@@ -38,8 +39,10 @@
 0.0.0.0 adcentral.com.mx
 0.0.0.0 adv.dailytechinsight.com
 0.0.0.0 aegic.top
+0.0.0.0 ahranvalves.com
 0.0.0.0 airbit.online
 0.0.0.0 airwayhost.com
+0.0.0.0 akyaisounds.com
 0.0.0.0 alccounseling.screenconnect.com
 0.0.0.0 allegro.wicreset.pl
 0.0.0.0 allgamerunengine.com
@@ -54,6 +57,7 @@
 0.0.0.0 api.stellarcedar.live
 0.0.0.0 app.appdowsdy.xyz
 0.0.0.0 app.dydowsdy.xyz
+0.0.0.0 arakelian-corner.com
 0.0.0.0 aranos1.duckdns.org
 0.0.0.0 argon-client.com
 0.0.0.0 asniqdkw.com
@@ -181,6 +185,7 @@
 0.0.0.0 detek.com.mx
 0.0.0.0 dexf5.fixlow.shop
 0.0.0.0 dfgjnisdjfgnisjdfng.online
+0.0.0.0 dgenergycorp.screenconnect.com
 0.0.0.0 dh.1121103.xyz
 0.0.0.0 diag.wpoler.help
 0.0.0.0 digidonna.ru
@@ -195,6 +200,7 @@
 0.0.0.0 dl.google.com
 0.0.0.0 doc.pdf-unico.lat
 0.0.0.0 docsloaded.site
+0.0.0.0 docuf.sfo3.digitaloceanspaces.com
 0.0.0.0 documentazione.siap.cloud
 0.0.0.0 docuviewse.com
 0.0.0.0 dodiihome.com
@@ -247,9 +253,11 @@
 0.0.0.0 dulkirsmod.net
 0.0.0.0 duller.qpon
 0.0.0.0 dwh.multidex.life
+0.0.0.0 dx.duxlip.icu
 0.0.0.0 dx.fixlow.shop
 0.0.0.0 dxa.rewan.live
 0.0.0.0 dxb.rewan.live
+0.0.0.0 dxx.fixlow.shop
 0.0.0.0 dxx11o.fixlow.shop
 0.0.0.0 dxx11xa.fixlow.shop
 0.0.0.0 dxx22xa.fixlow.shop
@@ -259,6 +267,7 @@
 0.0.0.0 dxx5g.fixlow.shop
 0.0.0.0 dxx5o.fixlow.shop
 0.0.0.0 dxx5q.fixlow.shop
+0.0.0.0 dxxpc.lowbrg.help
 0.0.0.0 dxxs.fixlow.shop
 0.0.0.0 dyhuiying.com
 0.0.0.0 e76d78a-ab4760-db52-652cd4fy-u43jda.tidepull.cc
@@ -267,12 +276,14 @@
 0.0.0.0 eatcullt.com
 0.0.0.0 efhiwogvjd.com
 0.0.0.0 efn.lol
+0.0.0.0 elderly-turquoise-hare.myfilebase.com
 0.0.0.0 elev.mcgrorys.top
 0.0.0.0 empergr.qpon
 0.0.0.0 epsilonau.shop-theeloncode.com
 0.0.0.0 estudio315.com.br
 0.0.0.0 examples2.pages.dev
 0.0.0.0 exo-api.tf
+0.0.0.0 exportrelay.net
 0.0.0.0 ext.xweny.lol
 0.0.0.0 faceit.pairacc.pro
 0.0.0.0 farmhelper.org
@@ -288,6 +299,7 @@
 0.0.0.0 featherwallet.com
 0.0.0.0 feedweave14.com
 0.0.0.0 fern46.com
+0.0.0.0 feroxtechnologies.solutions
 0.0.0.0 file.celciuscreditor.com
 0.0.0.0 file.garden
 0.0.0.0 files.catbox.moe
@@ -361,6 +373,7 @@
 0.0.0.0 hotelsalamander.pl
 0.0.0.0 houseless.com.br
 0.0.0.0 hp.hyperseqk.icu
+0.0.0.0 hrgewrws.cc
 0.0.0.0 hskstrading.com
 0.0.0.0 humaneanimalpartner.screenconnect.com
 0.0.0.0 hya.codedevfuture.buzz
@@ -437,6 +450,7 @@
 0.0.0.0 lucky-shadow-703a.modpages.workers.dev
 0.0.0.0 luegner.top
 0.0.0.0 luisrivera.com
+0.0.0.0 lunnar.icu
 0.0.0.0 macos.vettasy.com
 0.0.0.0 madeiracityschools.screenconnect.com
 0.0.0.0 maenc.icu
@@ -448,6 +462,7 @@
 0.0.0.0 mc.heyiwei.net
 0.0.0.0 mccl.com.vn
 0.0.0.0 meadow-facet.com
+0.0.0.0 mebel-leningradka.ru
 0.0.0.0 meteor-sites-one.vercel.app
 0.0.0.0 meteorclient.us
 0.0.0.0 meteorrejects.site
@@ -465,6 +480,7 @@
 0.0.0.0 mng.multidex.life
 0.0.0.0 mobix.work
 0.0.0.0 mofa-gov-np.donwloaad-file.org
+0.0.0.0 mohajeri.com
 0.0.0.0 moveeros.com
 0.0.0.0 mowcangler.co.uk
 0.0.0.0 mwpbajfkkrozdtwazwzk.supabase.co
@@ -472,6 +488,7 @@
 0.0.0.0 mysoliq.lat
 0.0.0.0 n.uguu.se
 0.0.0.0 nagl.com.pg
+0.0.0.0 naomiwellness.screenconnect.com
 0.0.0.0 nbdkdajf234.xyz
 0.0.0.0 ncheck-brows.beer
 0.0.0.0 nd.tdpqnf.com
@@ -487,6 +504,7 @@
 0.0.0.0 nimbus-90.com
 0.0.0.0 nn.mcgrorys.top
 0.0.0.0 nobleprotect.net
+0.0.0.0 node-status-sync.net
 0.0.0.0 nova-client.st
 0.0.0.0 novasms.com.mx
 0.0.0.0 novrixs.net
@@ -577,6 +595,7 @@
 0.0.0.0 purelypulse.media
 0.0.0.0 purxiy.org
 0.0.0.0 purxiyclient.org
+0.0.0.0 pyp.hyperseqk.icu
 0.0.0.0 qadamcash.top
 0.0.0.0 qbd.fillall.life
 0.0.0.0 qofnend.bpbxter.com
@@ -588,6 +607,7 @@
 0.0.0.0 quill-95.com
 0.0.0.0 qwb.wpoler.help
 0.0.0.0 qxb.renwr.life
+0.0.0.0 qyp.hyperseqk.icu
 0.0.0.0 ralph-schinagl.com
 0.0.0.0 raster15.com
 0.0.0.0 raw.githubusercontent.com
@@ -737,6 +757,7 @@
 0.0.0.0 tecpasco.com
 0.0.0.0 termoglas.ba
 0.0.0.0 tgnllqvbzqhl.github.io
+0.0.0.0 thegeneralipsscanner.co
 0.0.0.0 thegifthive.co.za
 0.0.0.0 thelkfklef.com
 0.0.0.0 therb.fixlow.shop
@@ -753,6 +774,7 @@
 0.0.0.0 torurr.click
 0.0.0.0 transportfadila.com
 0.0.0.0 tresoctavos.com.mx
+0.0.0.0 trueparadiselaser.mypi.co
 0.0.0.0 trustchecknes.com
 0.0.0.0 tubularservices.com
 0.0.0.0 tunnel-activation.cc
@@ -854,6 +876,7 @@
 0.0.0.0 www.wqrn59d.com
 0.0.0.0 www.wurstclient.org
 0.0.0.0 www.x9q.top
+0.0.0.0 wyp.hyperseqk.icu
 0.0.0.0 x0.at
 0.0.0.0 xaerosminimap.com
 0.0.0.0 xeno.qpon
