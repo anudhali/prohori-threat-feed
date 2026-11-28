@@ -1,5 +1,6 @@
 # PROHORI URLhaus online malware-host indicators
-# Generated: 2026-11-27T21:28:09.009667+00:00
+# Generated: 2026-11-28T08:04:21.233597+00:00
+0.0.0.0 10xmac.com
 0.0.0.0 123872.xyz
 0.0.0.0 156.233.235.86.nip.io
 0.0.0.0 1628394.xyz
@@ -97,7 +98,6 @@
 0.0.0.0 bit.gerhodd.com
 0.0.0.0 bit31.gerhodd.com
 0.0.0.0 bit60.gerhodd.com
-0.0.0.0 bitbrowse.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 bjyunte.com
 0.0.0.0 bkktech-thai.com
 0.0.0.0 black-breeze-bc02.weedhack.workers.dev
@@ -117,7 +117,6 @@
 0.0.0.0 box.gerhodd.com
 0.0.0.0 bravamktdigital.com.br
 0.0.0.0 breeze-client.com
-0.0.0.0 bridge73.com
 0.0.0.0 bsadbnqwic.com
 0.0.0.0 buloru.com
 0.0.0.0 bunaisd.screenconnect.com
@@ -145,7 +144,6 @@
 0.0.0.0 checkinidadd.com
 0.0.0.0 cheetoclient.org
 0.0.0.0 chilymove.net
-0.0.0.0 cianet.ir
 0.0.0.0 circuits-partners-resolved-peas.trycloudflare.com
 0.0.0.0 ckdb.hypstok.info
 0.0.0.0 ckde.hypstok.info
@@ -188,6 +186,7 @@
 0.0.0.0 daxogon.top
 0.0.0.0 daxogon.xyz
 0.0.0.0 dc84406c-gei55kj16cf-d1fa3d9fc.fablegrid.cc
+0.0.0.0 dd.feelkls.icu
 0.0.0.0 dd4c2c-12bc35233b71.reunionstream.cc
 0.0.0.0 definiacapital.com
 0.0.0.0 dellabetgiris.live
@@ -221,6 +220,7 @@
 0.0.0.0 documentazione.siap.cloud
 0.0.0.0 docuviewse.com
 0.0.0.0 dodiihome.com
+0.0.0.0 dofpod.com
 0.0.0.0 dolphlinksan.online
 0.0.0.0 dolphsa.cloud
 0.0.0.0 donttreadtoken.com
@@ -255,7 +255,6 @@
 0.0.0.0 download2332.mediafire.com
 0.0.0.0 download2338.mediafire.com
 0.0.0.0 download2339.mediafire.com
-0.0.0.0 download2358.mediafire.com
 0.0.0.0 download2363.mediafire.com
 0.0.0.0 download844.mediafire.com
 0.0.0.0 download850.mediafire.com
@@ -315,7 +314,6 @@
 0.0.0.0 fast69.gerhodd.com
 0.0.0.0 fastly.jsdelivr.net
 0.0.0.0 fastsetup.lol
-0.0.0.0 fat-tracking-josh-strongly.trycloudflare.com
 0.0.0.0 fc.yuo123.cc
 0.0.0.0 fcitantibot.pro
 0.0.0.0 fcmelle.de
@@ -351,6 +349,7 @@
 0.0.0.0 fsdownload.s3.eu-west-3.amazonaws.com
 0.0.0.0 ftp.vietnam852.com
 0.0.0.0 fuck-your-mother.cc
+0.0.0.0 fujibildern.online
 0.0.0.0 fuzerom.cfd
 0.0.0.0 g6.wtf
 0.0.0.0 gamma.gerhodd.com
@@ -404,10 +403,10 @@
 0.0.0.0 horrornightsmp.com
 0.0.0.0 hospital-prod-bucket.s3.amazonaws.com
 0.0.0.0 hospital-prod-bucket.s3.ap-southeast-1.amazonaws.com
-0.0.0.0 hotelsalamander.pl
 0.0.0.0 houseless.com.br
 0.0.0.0 hp.duxlip.icu
 0.0.0.0 hp.hyperseqk.icu
+0.0.0.0 hp.mergeps.icu
 0.0.0.0 hpp.duxlip.icu
 0.0.0.0 hrgewrws.cc
 0.0.0.0 hskstrading.com
@@ -415,6 +414,7 @@
 0.0.0.0 humaneanimalpartner.screenconnect.com
 0.0.0.0 hya.codedevfuture.buzz
 0.0.0.0 hyp.hyperseqk.icu
+0.0.0.0 hystericproject.xyz
 0.0.0.0 hzwbl.com
 0.0.0.0 i-ticket-az.site
 0.0.0.0 i.ibb.co
@@ -481,11 +481,11 @@
 0.0.0.0 ldbnaldjfajggfa.xxe1211.xyz
 0.0.0.0 legal-proof-document-42326721.pages.dev
 0.0.0.0 leisureconnecting.com
+0.0.0.0 lemonbalmstele.net
 0.0.0.0 lepafonso.bz
 0.0.0.0 librehub.click
 0.0.0.0 license-gateway.cc
 0.0.0.0 liesetaler.de
-0.0.0.0 lingering-cloud-8a93.zinhoooo.workers.dev
 0.0.0.0 link.gerhodd.com
 0.0.0.0 linuxutil5.pages.dev
 0.0.0.0 lists-pro-galaxy-bigger.trycloudflare.com
@@ -504,7 +504,6 @@
 0.0.0.0 madeiracityschools.screenconnect.com
 0.0.0.0 maenc.icu
 0.0.0.0 maildeveloper.site
-0.0.0.0 mailto-carmen-connected-paying.trycloudflare.com
 0.0.0.0 maltavps.online
 0.0.0.0 maprivahanna.duckdns.org
 0.0.0.0 marlowclient.net
@@ -519,14 +518,12 @@
 0.0.0.0 mhftee.my.id
 0.0.0.0 mida.cam
 0.0.0.0 miip.live
-0.0.0.0 mindrix.top
 0.0.0.0 minecraft-vip.top
 0.0.0.0 mipagina.cl
 0.0.0.0 misamasupply.com
 0.0.0.0 misleading-lime-termite.myfilebase.com
 0.0.0.0 mistermastermasta.online
 0.0.0.0 mm2027.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0 mna.multidex.life
 0.0.0.0 mng.multidex.life
 0.0.0.0 mobix.work
 0.0.0.0 mofa-gov-np.donwloaad-file.org
@@ -537,6 +534,7 @@
 0.0.0.0 mparivahna.duckdns.org
 0.0.0.0 mparivhanna.duckdns.org
 0.0.0.0 mprivahanan.duckdns.org
+0.0.0.0 msdnn.anondns.net
 0.0.0.0 multimedia-penetration-gba-perry.trycloudflare.com
 0.0.0.0 mwpbajfkkrozdtwazwzk.supabase.co
 0.0.0.0 myhpsd2.screenconnect.com
@@ -598,6 +596,7 @@
 0.0.0.0 pcsa.nu
 0.0.0.0 pdfonlineinvoi745.icu
 0.0.0.0 pebbleanthem.shop
+0.0.0.0 peppermintpylon.net
 0.0.0.0 petshoweraclimacao.com.br
 0.0.0.0 peyser.online
 0.0.0.0 phantom-cheats.pro
@@ -618,6 +617,7 @@
 0.0.0.0 pngup.com
 0.0.0.0 polyaris-beta.com
 0.0.0.0 ponyvps.online
+0.0.0.0 post-49.com
 0.0.0.0 postu.cloud
 0.0.0.0 pounddose.top
 0.0.0.0 powershell.lat
@@ -631,11 +631,11 @@
 0.0.0.0 pub-00f9bb8acaec41e6ba904da7d4d8e89a.r2.dev
 0.0.0.0 pub-16981d679a944b08a8bdb8d808cba6ee.r2.dev
 0.0.0.0 pub-37f3a615586d47f4996e932bf6df7670.r2.dev
-0.0.0.0 pub-406c38dcf6254a1e9d626f6b34967826.r2.dev
 0.0.0.0 pub-41b75d021b0b48ddad6cbe9eeb14f7be.r2.dev
 0.0.0.0 pub-423927d9b82649c681bc5899c6177996.r2.dev
 0.0.0.0 pub-45a83f302a1943ed8d62418c2af947ef.r2.dev
 0.0.0.0 pub-5e5552f9629e4e2eadd17bbb2d62cd4a.r2.dev
+0.0.0.0 pub-720ec92112d749e2a923776fab99461d.r2.dev
 0.0.0.0 pub-7e21bf5022574a289ca67b5509e84015.r2.dev
 0.0.0.0 pub-8c944cde37db4a589e86137d049091b0.r2.dev
 0.0.0.0 pub-8cd123cf29f247f8bf6c3b4507e3a5fb.r2.dev
@@ -643,12 +643,8 @@
 0.0.0.0 pub-9f713b44098e49fc88246a955a24dd58.r2.dev
 0.0.0.0 pub-a224f807124742f6bd3e49da8fe762a5.r2.dev
 0.0.0.0 pub-ad86ac82a03a47edba1b8c889708a32d.r2.dev
-0.0.0.0 pub-b0f74488c3df4fc5a193cc220a0f3bf1.r2.dev
 0.0.0.0 pub-c2333fd98ad04e31be785553c40467a4.r2.dev
 0.0.0.0 pub-c3947f4f3f2947e680cbf4cd2a18055d.r2.dev
-0.0.0.0 pub-c9f0444b6f604c8d8f64366bb87d456d.r2.dev
-0.0.0.0 pub-dafab31d7caf48478302d333de660bc3.r2.dev
-0.0.0.0 pub-deebd68623a947eebf94757bdf8f090b.r2.dev
 0.0.0.0 pub-e4396ac9c01344db998f3a97ab6a8226.r2.dev
 0.0.0.0 pub-ef44c35b13984ebc836b5bb28bb93c95.r2.dev
 0.0.0.0 pub-f6745cf8efe14679acfbe49bedff70af.r2.dev
@@ -678,19 +674,19 @@
 0.0.0.0 rbxhub.pro
 0.0.0.0 recon-rival.nyc.boxd.sh
 0.0.0.0 red-defeated-bass-280.mypinata.cloud
-0.0.0.0 reiventarseuconhecimento.com
 0.0.0.0 relay.lecoindudiabetique.com
 0.0.0.0 relay.rolmasrong.online
 0.0.0.0 release-activation.cc
 0.0.0.0 release-assets.githubusercontent.com
 0.0.0.0 remote-helpdesk.com
+0.0.0.0 render-96.com
 0.0.0.0 repo.huaweicloud.com
-0.0.0.0 rerollnow.cc
 0.0.0.0 res2.topkitss.icu
 0.0.0.0 reshow35.com
 0.0.0.0 ret.cloudrack.in.net
 0.0.0.0 rewardgoldshop.com
 0.0.0.0 rights-abuse-proof-57008194.pages.dev
+0.0.0.0 ro-shade.lol
 0.0.0.0 robinhood.media
 0.0.0.0 roblox-executr.com
 0.0.0.0 roblox-expl.info
@@ -712,7 +708,6 @@
 0.0.0.0 s53.eu
 0.0.0.0 s6k.hypstock.info
 0.0.0.0 s7g.hypstock.info
-0.0.0.0 sail91.com
 0.0.0.0 salikae.store
 0.0.0.0 sanpaul.ae
 0.0.0.0 sasa2.fixiow.icu
@@ -783,6 +778,7 @@
 0.0.0.0 stack.gerhodd.com
 0.0.0.0 start.gerhodd.com
 0.0.0.0 start79.gerhodd.com
+0.0.0.0 static.filecr.com
 0.0.0.0 static.startcode.cyou
 0.0.0.0 static.tnkjmec.com
 0.0.0.0 statist.site
@@ -888,7 +884,6 @@
 0.0.0.0 vahanechalan.duckdns.org
 0.0.0.0 valentimadvocacia.com.br
 0.0.0.0 valerovati03.github.io
-0.0.0.0 vape-client-landing.netlify.app
 0.0.0.0 vaul8.s3.us-east-2.amazonaws.com
 0.0.0.0 vd1s.hypstok.info
 0.0.0.0 vd2s.hypstok.info
@@ -899,6 +894,7 @@
 0.0.0.0 veod1.hypstock.info
 0.0.0.0 verifyidentrob01.cc
 0.0.0.0 verizon.systyu.top
+0.0.0.0 vgfgfttfyug76567877655.cfd
 0.0.0.0 videoavarii17-sbs.pages.dev
 0.0.0.0 videoavarii17.sbs
 0.0.0.0 vinacomelectric.top
@@ -959,6 +955,7 @@
 0.0.0.0 www.trmi25t.com
 0.0.0.0 www.udn48vb.com
 0.0.0.0 www.unlinedsound.com
+0.0.0.0 www.unoplaytogether.com
 0.0.0.0 www.vcc-data.bond
 0.0.0.0 www.vertansoft.com
 0.0.0.0 www.vexonmods.shop
@@ -974,7 +971,6 @@
 0.0.0.0 xorvanta-mvp.vercel.app
 0.0.0.0 xsealslogisticsltd.com
 0.0.0.0 xskx.artemida.live
-0.0.0.0 xz-1507771301.cos.ap-singapore.myqcloud.com
 0.0.0.0 yekyahora.com
 0.0.0.0 yifayiapp.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 yiwaiwaikehuduan.com
